@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Stickzinho</string>
+    <string name="question">Quantos palitos deseja colocar na mão?</string>
+    <string name="question2">Advinhe a soma dos palitos nas duas mãos!</string>
+    <string name="question3">Jogar Denovo?</string>
+    <string name="question4">Próxima rodada! XD</string>
+    <string name="number">number</string>
+    <string name="quantity">De 0 a 3</string>
+    <string name="add">Add</string>
+    <string name="chute">chute</string>
+    <string name="guess">Advinhe!</string>
+    <string name="firstStep">0123</string>
+    <string name="secondStep">0123456</string>
+    <string name="winner">Ganhou</string>
+    <string name="loser">Perdeu</string>
+    <string name="even">Deu Zebra</string>
+    <string name="gameWinner">Voce Venceu! :)</string>
+    <string name="gameLoser">O Android Ganhou! :(</string>
+    <string name="start">Iniciar</string>
+    <string name="restart">Reiniciar</string>
+    <string name="next">Próxima</string>
+</resources>
